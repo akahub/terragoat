@@ -68,7 +68,7 @@ resource azurerm_windows_virtual_machine "windows_machine" {
     git_commit           = "de3bb777f967989c2c3332faea16cb614c55ccc9"
     git_file             = "terraform/azure/instance.tf"
     git_last_modified_at = "2020-06-17 15:48:15"
-    git_last_modified_by = "nimrodkor@gmail.com"
+    git_last_modified_by = "ak@gmail.com"
     git_modifiers        = "nimrodkor"
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
